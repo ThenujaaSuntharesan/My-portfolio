@@ -111,7 +111,7 @@ const Contact = () => {
     {
       icon: <FiMail className="text-2xl text-[#0077B6]" />,
       title: "Email",
-      details: "thenujaasuntharasan@gmail.com",
+      details: "thenujaasuntharesan@gmail.com",
     },
     {
       icon: <FiMapPin className="text-2xl text-[#0077B6]" />,

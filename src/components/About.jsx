@@ -59,11 +59,9 @@ const About = () => {
               Software Engineering <span className="text-[#0077B6]">Undergraduate</span>
             </h3>
             <p className={`mb-6 text-left ${theme === "dark" ? "text-neutral-300" : "text-neutral-700"}`}>
-              a passionate Software Engineering undergraduate at the University of Westminster. I specialize in
-              developing user-focused applications using Java, Python, Spring Boot, and modern web technologies. My
-              academic and project experience has equipped me with strong problem-solving and teamwork skills. I thrive
-              in dynamic environments where I can continuously grow and contribute through innovative solutions. I’m
-              actively seeking opportunities to apply my technical and leadership abilities in real-world settings.
+            A passionate Software Engineering undergraduate at the University of Westminster, specializing in developing user-focused applications using Java, Python, Spring Boot, and modern web technologies. 
+            My academic background and hands-on project experience have equipped me with strong problem-solving and collaboration skills.
+            I thrive in dynamic environments where I can grow continuously and contribute through innovative solutions. I am actively seeking opportunities to apply my technical and leadership abilities in real-world settings.
             </p>
 
             <motion.a
