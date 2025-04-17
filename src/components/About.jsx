@@ -65,7 +65,7 @@ const About = () => {
             </p>
 
             <motion.a
-              href="https://github.com/ThenujaaSuntharesan/resume/raw/main/resume.pdf"
+              href="https://drive.google.com/file/d/1LFmZz9BdPq1MZ5U3KS3EDhFfXSyGsurQ/view?usp=sharing"
               target="_blank"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
