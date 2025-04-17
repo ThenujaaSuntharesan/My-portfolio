@@ -93,7 +93,7 @@ const Hero = () => {
                   <FiMail className="text-[#0077B6] text-xl" />
                 </motion.a>
                 <motion.a
-                  href="https://linkedin.com/in/thenujaa-suntharesan"
+                  href="http://linkedin.com/in/thenujaa-suntharesan-475726310"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1, y: -5 }}
