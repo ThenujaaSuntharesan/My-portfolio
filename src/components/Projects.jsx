@@ -25,7 +25,7 @@ const Projects = () => {
       technologies: ["Flutter", "Firebase"],
       category: "mobile",
       links: {
-        github: "#",
+        github: "https://github.com/ThenujaaSuntharesan/MyBete-App",
         live: "#",
       },
     },
@@ -38,7 +38,7 @@ const Projects = () => {
       technologies: ["Python", "tkinter", "JSON"],
       category: "desktop",
       links: {
-        github: "#",
+        github: "https://github.com/ThenujaaSuntharesan/Personal_Finance_Tracker",
         live: "#",
       },
     },
@@ -64,7 +64,7 @@ const Projects = () => {
       technologies: ["Java", "OOP"],
       category: "desktop",
       links: {
-        github: "#",
+        github: "https://github.com/ThenujaaSuntharesan/Student_Management_System",
         live: "#",
       },
     },
@@ -77,7 +77,7 @@ const Projects = () => {
       technologies: ["Java", "SpringBoot", "Angular", "JSON"],
       category: "web",
       links: {
-        github: "#",
+        github: "https://github.com/ThenujaaSuntharesan/Ticket-booking-system",
         live: "#",
       },
     },
